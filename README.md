@@ -76,6 +76,16 @@ To get a copy of this project up and running on your local machine, follow these
     pip install -r requirements.txt
     ```
 
+5. **Run Setup.py:**
+    You can skip the 3rd and 4th step and directly run setup.py
+    '''bash
+    python setup.py
+    '''
+    **Command Prompt**
+    '''Cmd
+    python setup.py
+    '''
+
 ## Usage
 To use the Diamond Price Prediction project, follow these steps:
 
@@ -101,9 +111,9 @@ To use the Diamond Price Prediction project, follow these steps:
    Open your web browser and go to `http://127.0.0.1:5000/predict` to see the project running on your local host.
 
 ## Project Explanation
-In this project, we aim to predict the price of diamonds based on the given dataset. 
+In this project, we aim to predict the price of diamonds based on the given dataset.
 
-- **EDA.ipynb**: This file contains a detailed explanation of the dataset, along with analysis and visualizations using pandas, numpy, seaborn, and matplotlib. 
+- **EDA.ipynb**: This file contains a detailed explanation of the dataset, along with analysis and visualizations using pandas, numpy, seaborn, and matplotlib.
 - **model_training.ipynb**: In this notebook, the dataset is trained using multiple regression models from the scikit-learn library (`sklearn`). The best model is then selected and saved for prediction purposes.
 - The project is built in a modular way, with separate scripts for data ingestion, transformation, and model training.
 - Runtime logs can be found in the `logs` folder for further understanding of the processes.
