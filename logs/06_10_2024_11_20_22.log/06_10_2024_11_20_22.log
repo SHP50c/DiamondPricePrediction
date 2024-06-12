@@ -1,0 +1,38 @@
+[ 2024-06-10 11:20:26,000 ] 36 root - INFO - CustomData class iscalled by app.py data is being collected by  the user
+[ 2024-06-10 11:20:26,053 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-10 11:20:26,236 ] 97 werkzeug - INFO -  * Debugger PIN: 185-215-732
+[ 2024-06-10 11:26:20,470 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:26:20] "GET / HTTP/1.1" 200 -
+[ 2024-06-10 11:26:20,696 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:26:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-06-10 11:26:36,379 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:26:36] "GET /predict HTTP/1.1" 200 -
+[ 2024-06-10 11:26:59,691 ] 60 root - INFO - Data collected by user is now being converted to DataFrame
+[ 2024-06-10 11:26:59,743 ] 73 root - INFO - DataFrame created
+[ 2024-06-10 11:26:59,743 ] 17 root - INFO - Predictionpipeline starts
+[ 2024-06-10 11:26:59,744 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:01,729 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:06,729 ] 60 root - INFO - Data collected by user is now being converted to DataFrame
+[ 2024-06-10 11:27:06,731 ] 73 root - INFO - DataFrame created
+[ 2024-06-10 11:27:06,732 ] 17 root - INFO - Predictionpipeline starts
+[ 2024-06-10 11:27:06,732 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:06,734 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:07,424 ] 60 root - INFO - Data collected by user is now being converted to DataFrame
+[ 2024-06-10 11:27:07,427 ] 73 root - INFO - DataFrame created
+[ 2024-06-10 11:27:07,427 ] 17 root - INFO - Predictionpipeline starts
+[ 2024-06-10 11:27:07,428 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:07,429 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:08,133 ] 60 root - INFO - Data collected by user is now being converted to DataFrame
+[ 2024-06-10 11:27:08,135 ] 73 root - INFO - DataFrame created
+[ 2024-06-10 11:27:08,135 ] 17 root - INFO - Predictionpipeline starts
+[ 2024-06-10 11:27:08,135 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:27:08,143 ] 53 root - INFO - preprocessor.pkl and model.pkl is being loaded
+[ 2024-06-10 11:28:19,809 ] 27 root - INFO - prediction was sucessfull
+ predicted price of diamond is:[15572.68]
+[ 2024-06-10 11:28:20,038 ] 27 root - INFO - prediction was sucessfull
+ predicted price of diamond is:[15572.68]
+[ 2024-06-10 11:28:20,260 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:28:20] "POST /predict HTTP/1.1" 200 -
+[ 2024-06-10 11:28:20,350 ] 27 root - INFO - prediction was sucessfull
+ predicted price of diamond is:[15572.68]
+[ 2024-06-10 11:28:20,608 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:28:20] "POST /predict HTTP/1.1" 200 -
+[ 2024-06-10 11:28:20,638 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:28:20] "POST /predict HTTP/1.1" 200 -
+[ 2024-06-10 11:28:20,675 ] 27 root - INFO - prediction was sucessfull
+ predicted price of diamond is:[15572.68]
+[ 2024-06-10 11:28:20,817 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2024 11:28:20] "POST /predict HTTP/1.1" 200 -
