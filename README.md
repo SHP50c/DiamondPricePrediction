@@ -78,13 +78,13 @@ To get a copy of this project up and running on your local machine, follow these
 
 5. **Run Setup.py:**
     You can skip the 3rd and 4th step and directly run setup.py
-    '''bash
+    ```bash
     python setup.py
-    '''
+    ```
     **Command Prompt**
-    '''Cmd
+    ```Cmd
     python setup.py
-    '''
+    ```
 
 ## Usage
 To use the Diamond Price Prediction project, follow these steps:
