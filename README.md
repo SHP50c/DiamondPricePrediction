@@ -9,7 +9,6 @@ Welcome to the Diamond Price Prediction project! This project is implemented usi
 - [Usage](#usage)
 - [Project Explanation](#project-explanation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
