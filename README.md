@@ -129,7 +129,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: sagarpatelsp714@gmail.com.com
+- **Email**: sagarpatelsp714@gmail.com
 - **GitHub**: [SHP50c](https://github.com/SHP50c)
 
 ---
